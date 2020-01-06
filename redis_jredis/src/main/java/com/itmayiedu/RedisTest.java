@@ -14,7 +14,7 @@ public class RedisTest {
 		/*jedis.auth("");*/
 //		setString();
 //		setMap();
-//		setList();
+//		setList();  
 		setSet();
 	}
 	public static void  setString(){
